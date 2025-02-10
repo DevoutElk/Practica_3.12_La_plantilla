@@ -25,7 +25,7 @@ background-color: aquamarine;
 div.postbar {
     width: 100%;
     display: flex;
-    position: absolute;
+    position: fixed;
     bottom: 0px;
     left: 0px;
 
@@ -46,8 +46,7 @@ div.negro {
 
 img.ratavoladora{
 
-position: relative;
-position: absolute;
+position: fixed;
 bottom: 50px;
 right: 0;
 
